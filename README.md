@@ -1,6 +1,6 @@
 # Zakus Predictive Buffer
 
-this mod is too overpowered. join discord [discord.gg/zakugd](https://discord.gg/zakugd)
+this mod is too overpowered. join discord [discord.gg/AcPxn9Vf6](https://discord.gg/AcPxn9Vf6)
 
 Geode mod for Geometry Dash 2.2081 - works on **PC (Windows)** and **Android**.
 
